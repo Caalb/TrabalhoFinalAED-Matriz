@@ -1,0 +1,16 @@
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\MatrizAED.exe
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\MatrizAED.deps.json
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\MatrizAED.runtimeconfig.json
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\MatrizAED.runtimeconfig.dev.json
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\MatrizAED.dll
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\ref\MatrizAED.dll
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\bin\Debug\net5.0\MatrizAED.pdb
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.csproj.AssemblyReference.cache
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.AssemblyInfoInputs.cache
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.AssemblyInfo.cs
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.csproj.CoreCompileInputs.cache
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.dll
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\ref\MatrizAED.dll
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.pdb
+C:\Users\caalb\RiderProjects\MatrizAED\MatrizAED\obj\Debug\net5.0\MatrizAED.genruntimeconfig.cache
